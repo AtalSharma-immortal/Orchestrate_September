@@ -1,0 +1,82 @@
+{
+  "image_01": {
+    "amount": 4365000.0,
+    "currency": "IDR",
+    "date": "2019-09-02"
+  },
+  "image_02": {
+    "amount": 200000.0,
+    "currency": "INR",
+    "date": "2023-08-11"
+  },
+  "image_03": {
+    "amount": 41272.0,
+    "currency": "INR",
+    "date": "2026-02-27"
+  },
+  "image_04": {
+    "amount": 2854.0,
+    "currency": "INR",
+    "date": null
+  },
+  "image_05": {
+    "amount": 704.05,
+    "currency": "INR",
+    "date": "2026-02-06"
+  },
+  "image_06": {
+    "amount": 1995.0,
+    "currency": "INR",
+    "date": null
+  },
+  "image_07": {
+    "amount": 8528.0,
+    "currency": "INR",
+    "date": "2025-10-29"
+  },
+  "image_08": {
+    "amount": 15339.0,
+    "currency": "INR",
+    "date": "2026-07-24"
+  },
+  "image_09": {
+    "amount": 723.0,
+    "currency": "\u20b9",
+    "date": "2026-06-07"
+  },
+  "image_10": {
+    "amount": 79679.26,
+    "currency": "\u20b9",
+    "date": null
+  },
+  "image_11": {
+    "amount": 3650.0,
+    "currency": "INR",
+    "date": "2023-01-19"
+  },
+  "image_12": {
+    "amount": 33.5,
+    "currency": "$",
+    "date": "2025-01-10"
+  },
+  "image_13": {
+    "amount": 2298.0,
+    "currency": "\u20b9",
+    "date": null
+  },
+  "image_14": {
+    "amount": 4543.0,
+    "currency": "Rs.",
+    "date": null
+  },
+  "image_15": {
+    "amount": 9968.0,
+    "currency": "INR",
+    "date": "2026-06-07"
+  },
+  "image_16": {
+    "amount": 393.22,
+    "currency": "INR",
+    "date": "2026-09-03"
+  }
+}
